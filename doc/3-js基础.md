@@ -7,6 +7,7 @@
 - 彻底搞懂javascript-this
 - 彻底搞懂javascript-作用域链
 - 彻底搞懂javascript-闭包
+- let和const
 
 ## 彻底搞懂javascript-词法环境(Lexical Environments)
 https://juejin.im/post/5c05120be51d4513416d2111
@@ -22,3 +23,5 @@ https://juejin.im/post/5c06a3316fb9a04a0e2cf834
 https://juejin.im/post/5c09f8afe51d451da068c303
 ## 彻底搞懂javascript-闭包
 https://juejin.im/post/5c09f8e951882530544f1e53
+## let和const
+https://zhuanlan.zhihu.com/p/28140450
